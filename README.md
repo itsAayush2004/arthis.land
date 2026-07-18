@@ -13,6 +13,10 @@
 
 </div>
 
+<p align="center">
+  <img src="preview.png" alt="ARTHIS.land — The Wall, a grid of rooms you explore" width="860" />
+</p>
+
 > _This repository is a project showcase. The source code for the ARTHIS.land client is private — this page explains what it is and how it works. Its multiplayer backend is open: **[arthisland-relay](https://github.com/akversebusiness-beep/arthisland-relay)**._
 
 ---
@@ -62,6 +66,18 @@ The relay is transport-agnostic — **WebGL** builds connect over **WebSocket**,
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 ![Python relay](https://img.shields.io/badge/relay-Python%20stdlib-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshot-2.png" alt="Entering the Akverse Room — the first open space on the wall" width="760" />
+  <br/><em>The Akverse Room — the first space open on the wall</em>
+</p>
+
+<p align="center">
+  <img src="screenshot-3.png" alt="ARTHIS.land on mobile" width="300" />
+  <br/><em>The Wall, on mobile</em>
+</p>
 
 ## The ARTHIS universe
 
