@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/banner.svg" alt="arthis.land banner: a stacked vertical city tower against a sunrise" width="100%"></p>
+
 <div align="center">
 
 <img src="https://arthis.land/assets/LOGO-3Edited.png" alt="ARTHIS.land" width="140" />
